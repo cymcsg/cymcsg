@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Marshal Chen, a full stack engineer who focus on fintech field.
+I'm Marshal Chen, a full stack engineer who focus on fintech field using artificial intelligence.
 
 
 <!--- 
